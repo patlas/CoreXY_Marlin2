@@ -35,7 +35,7 @@
 
 #define BOARD_INFO_NAME "MKS Robin nano V2.0"
 
-#define BOARD_NO_NATIVE_USB
+//#define BOARD_NO_NATIVE_USB
 
 //
 // Release PB4 (Y_ENABLE_PIN) from JTAG NRST role
